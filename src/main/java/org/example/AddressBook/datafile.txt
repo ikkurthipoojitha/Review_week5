@@ -1,0 +1,3 @@
+Person{firstName='a', lastName='b', email='abc@gmail.com', state='AndhraPradesh', city='Vij'}
+Person{firstName='bc', lastName='last', email='last@gmail.com', state='Telangana', city='Hyd'}
+Person{firstName='First', lastName='name', email='first@gmail.com', state='Telangana', city='Hyderabad'}
